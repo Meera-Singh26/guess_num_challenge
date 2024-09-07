@@ -1,2 +1,2 @@
 # This is the game which is used to ask a number to guess
-made by Meera
+made by Meera Singh
